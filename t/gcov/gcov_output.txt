@@ -1,0 +1,4 @@
+File '/Users/am/Documents/Preparation/projects/cpputest_poc/src/code/code.cpp'
+Lines executed:100.00% of 1
+/Users/am/Documents/Preparation/projects/cpputest_poc/src/code/code.cpp:creating 'code.cpp.gcov'
+

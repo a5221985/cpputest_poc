@@ -1,0 +1,11 @@
+        -:    0:Source:/Users/am/Documents/Preparation/projects/cpputest_poc/src/code/code.cpp
+        -:    0:Graph:objs//Users/am/Documents/Preparation/projects/cpputest_poc/src/code/code.gcno
+        -:    0:Data:objs//Users/am/Documents/Preparation/projects/cpputest_poc/src/code/code.gcda
+        -:    0:Runs:1
+        -:    0:Programs:1
+        -:    1:#include <stdlib.h>
+        -:    2:#include "code.h"
+        -:    3:
+        -:    4:int test_func() {
+        2:    5:    return 1;
+        -:    6:}
